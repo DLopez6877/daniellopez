@@ -64,6 +64,11 @@ body {
   opacity: .5;
 }
 
+#pong img {
+  width: 900px;
+  height: 368px;
+}
+
 /*
  * Header
  */
